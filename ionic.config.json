@@ -1,0 +1,7 @@
+{
+  "name": "healthChoice",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
